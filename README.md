@@ -1,2 +1,2 @@
 # Face-Detection
-Comes with module Detecting facefile
+Comes with module .py
